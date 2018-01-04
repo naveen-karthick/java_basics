@@ -28,6 +28,7 @@ public static void main(String[] args)
 	{
 		array[i]=nav.nextInt();
 	}
+	
 	System.out.println(recursion(array,0,length-1));
 }
 }
